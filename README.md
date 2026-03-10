@@ -6,7 +6,7 @@ I'm not an expert — still learning a lot — but I genuinely enjoy building th
 
 ---
 
-What I'm working with these days
+### What I'm working with these days
 
 **AI stuff:** OpenAI API, LangChain, Prompt Engineering, RAG (still exploring this)  
 **Automation:** n8n — honestly love this tool for building workflows fast  
@@ -26,7 +26,7 @@ What I'm working with these days
 
 ---
 
-Certifications I've done
+### Certifications I've done
 
 - Agentic AI Bootcamp with LangGraph & LangChain — Udemy (2026)
 - Azure Fundamentals AZ-900 — Microsoft / LinkedIn Learning (2026)
@@ -35,7 +35,7 @@ Certifications I've done
 
 ---
 
-Currently
+### Currently
 
 - 💼 Working as AI Consultant at Scalient Consulting LLP
 - 🌱 Learning more about Agentic AI and how to build reliable AI pipelines
